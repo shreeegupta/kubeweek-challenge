@@ -16,6 +16,13 @@ https://shreya-gupta.hashnode.dev/kubernetes-cluster-maintenance
 
 https://shreya-gupta.hashnode.dev/kubernetes-troubleshooting
 
+
+
+
+
+
 Also I have deployed a flask and mongodb application with kubeadm as a task of kubeweek challenge. 
 
-https://shreya-gupta.hashnode.dev/deploy-a-flask-and-mongodb-microservices-project-on-kubernetes
+Repository Link: https://github.com/shreeegupta/microservices-k8s
+
+Blog Link: https://shreya-gupta.hashnode.dev/deploy-a-flask-and-mongodb-microservices-project-on-kubernetes
